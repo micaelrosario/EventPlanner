@@ -1,4 +1,4 @@
-package com.example.eventoapp.controllers.models;
+package com.example.eventoapp.models;
 
 public class Evento {
 	private String nome;
